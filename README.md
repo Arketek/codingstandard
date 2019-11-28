@@ -3,6 +3,7 @@
 </p
 
 # Coding Standards
+
 Code standards that are to be followed for all [Arketek](https://arketek.ca) originated projects.
 
 # License
