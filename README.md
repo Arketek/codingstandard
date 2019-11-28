@@ -1,8 +1,8 @@
 <p align="center">
   <img align="center"src="/assets/logos/Arketek_Logo_300x85.png" alt="Arketek Logo"/>
-  <h1 align="center">Coding Standards</h1>
 </p
 
+# Coding Standards
 Code standards that are to be followed for all [Arketek](https://arketek.ca) originated projects.
 
 # License
